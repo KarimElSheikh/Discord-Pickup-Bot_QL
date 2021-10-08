@@ -1,0 +1,6 @@
+{
+  "MONGODB_SERVERADDRESS" : "MongoDB Server Address",
+  "CLIENT_ID" : "Discord_Bot_Client_ID",
+  "CLIENT_SECRET" : "Discord_Bot_Client_Secret",
+  "TOKEN" : "Discord_Bot_Token"
+}
